@@ -71,9 +71,7 @@ This project was built to feel like a real SaaS product:
 
 ---
 
-## 📸 Live Demo
 
-👉 [Add your live link here]
 
 ---
 
